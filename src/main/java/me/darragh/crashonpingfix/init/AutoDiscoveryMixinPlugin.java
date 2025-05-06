@@ -1,4 +1,4 @@
-package com.github.darraghd493.189crashonpingfix.init;
+package me.darragh.crashonpingfix.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
